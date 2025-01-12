@@ -8,10 +8,6 @@ class Solution:
         return " "
 
 
-
-# s = "abccbaacz"
-# Output: "c"
-
 P = Solution()
 s = "abccbaacz"
 print(P.repeatedCharacter(s))
