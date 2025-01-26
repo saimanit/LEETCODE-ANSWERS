@@ -13,14 +13,7 @@ class Solution:
 
 
 solution = Solution()
-# Example list of strings
+
 strs = ["eat", "tea", "tan", "ate", "nat", "bat"]
-
-# Create an instance of the Solution class
-
-
-# Call the groupAnagrams method and store the result
 result = solution.groupAnagrams(strs)
-
-# Print the result
 print(result)
